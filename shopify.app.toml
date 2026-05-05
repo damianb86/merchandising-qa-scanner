@@ -1,6 +1,6 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
-client_id = "59a05ebcb6acc87a86665d0578c1ba1d"
+client_id = "81c23154e480b5ccb2998a7d143fa494"
 application_url = "https://example.com"
 embedded = true
 name = "Merchandising QA Scanner"
